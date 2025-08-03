@@ -93,5 +93,5 @@ cd DailyQuizApp
 Распространяется под лицензией MIT.
 
 📞 Контакты
-Ваше Имя - alexanton044@gmail.com
+alexanton044@gmail.com
 Ссылка на проект: https://github.com/alexant86/DailyQuiz
